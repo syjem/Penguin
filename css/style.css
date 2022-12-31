@@ -25,6 +25,17 @@ body {
     background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
 }
 
+.back-mountain {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(45deg);
+    left: 110px;
+    top: 225px;
+    background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255)); 
+}
+
 .penguin {
     width: 300px;
     height: 300px;
