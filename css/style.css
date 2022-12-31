@@ -15,6 +15,13 @@ body {
                 );
 }
 
+.penguin {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 75px;
+}
+
 .ground {
     width: 100vw;
     height: 400px;
