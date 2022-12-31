@@ -14,3 +14,14 @@ body {
                 rgb(247, 255, 222)
                 );
 }
+
+.ground {
+    width: 100vw;
+    height: 400px;
+    z-index: 3;
+    position: absolute;
+    background: linear-gradient(90deg, 
+                rgb(88, 175, 236), 
+                rgb(182, 255, 255));
+  
+  }
