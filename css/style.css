@@ -23,6 +23,7 @@ body {
     z-index: 2;
     margin-top: 100px;
     background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
+    border: 1px solid red;
 }
 
 .back-mountain {
@@ -34,6 +35,7 @@ body {
     left: 110px;
     top: 225px;
     background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255)); 
+    border: 1px solid red;
 }
 
 .penguin {
@@ -41,6 +43,7 @@ body {
     height: 300px;
     margin: 0 auto;
     margin-top: 75px;
+    border: 1px solid red;
 }
 
 .ground {
@@ -52,5 +55,6 @@ body {
     background: linear-gradient(90deg, 
                 rgb(88, 175, 236), 
                 rgb(182, 255, 255));
+                border: 1px solid red;
   
   }
