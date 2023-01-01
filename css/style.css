@@ -80,6 +80,14 @@ body {
     top: 15%;    
 }
 
+.left {
+    left: 5%;
+}
+
+.right{ 
+    right: 5%;
+}
+
 .penguin-body {
     width: 53%;
     height: 45%;
