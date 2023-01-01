@@ -203,6 +203,18 @@ body {
     opacity: 70%;
   }
 
+.foot {
+    width: 15%;
+    height: 30%;
+    background-color: orange;
+    top: 85%;
+    border-radius: 50%;
+}
+
+.foot.left {
+
+}
+
 .penguin * {
     position: absolute;
   }
